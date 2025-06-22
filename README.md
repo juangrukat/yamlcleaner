@@ -1,7 +1,6 @@
-🧪 How to Use
+# 🧪 How to Use
 
 python3 markdown_cleaner.py /path/to/your/markdown/files
-This version:
 
 Removes metadata (if valid),
 
